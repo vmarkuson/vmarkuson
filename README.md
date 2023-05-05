@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-009578?style=for-the-badge&logo=googlechrome&logoColor=white)](https://victoriamarkuson.com/)
 
 
-## current skills
+## Current Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![R Programming](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
