@@ -14,6 +14,8 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)](#) 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 <!--
 **vmarkuson/vmarkuson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
