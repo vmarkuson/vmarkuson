@@ -1,6 +1,6 @@
 # Hi, I'm Victoria 👋
 
-## I am a currentt senior at the University of Iowa with a finance major and a business analytics & information systems major
+## I am a current senior at the University of Iowa with a finance major and a business analytics & information systems major
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-markuson/)
 [![Website](https://img.shields.io/badge/Website-009578?style=for-the-badge&logo=googlechrome&logoColor=white)](https://victoriamarkuson.com/)
