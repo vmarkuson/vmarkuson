@@ -1,4 +1,4 @@
-### Hi, I'm Victoria 👋
+# Hi, I'm Victoria 👋
 
 ## I am a currentt senior at the University of Iowa with a finance major and a business analytics & information systems major
 
