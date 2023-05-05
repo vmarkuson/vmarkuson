@@ -2,8 +2,8 @@
 
 ##
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/victoria-markuson/)
-[![Visit Website](https://img.shields.io/badge/Visit-Website-green)](https://www.victoriamarkuson.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-markuson/)
+[![Website](https://img.shields.io/badge/Website-009578?style=for-the-badge&logo=googlechrome&logoColor=white)](https://victoriamarkuson.com/)
 
 
 <!--
